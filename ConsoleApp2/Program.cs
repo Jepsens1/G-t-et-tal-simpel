@@ -31,7 +31,6 @@ namespace ConsoleApp2
                     win = true;
                 }
 
-
                 } while (win == false);
             Console.WriteLine("Tak fordi du spillede med!");
             Console.ReadKey();
